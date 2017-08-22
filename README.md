@@ -1,8 +1,9 @@
-# ISW_GRUPO6
-Repositorio para la realización de ejercicios prácticos de la Cátedra de Ingeniería en Software
-echo "# ISW_GRUPO6" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/tengirl/ISW_GRUPO6.git
-git push -u origin master
+# Ingeniería de Software - UTN - FRC - GRUPO 6
+Repositorio para la realización de ejercicios prácticos de la Cátedra de Ingeniería en Software.
+
+Integrantes:
+- Barrionuevo Ileana - 67958
+- Barrionuevo Matías - 60437
+- Bartoszensky Luciano - 66915
+- Gomez Pablo - 62684
+- Segurado Lucas - 68232
