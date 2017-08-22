@@ -8,7 +8,7 @@ Repositorio para la realización de ejercicios prácticos de la Cátedra de Inge
 * [Gomez Pablo] - 62684
 * [Segurado Lucas] - 68232
 
-[//]:
+[//]:# (Links. This won't be seen after it's interpreted.)
 [Barrionuevo Ileana]: <https://github.com/ibarrionuevo>
 [Barrionuevo Matías]: <https://github.com/mbarrionuevo>
 [Bartoszensky Luciano]: <https://github.com/lafalda>
