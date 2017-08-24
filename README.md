@@ -11,6 +11,6 @@ Repositorio para la realización de ejercicios prácticos de la Cátedra de Inge
 [//]:# (Links. This won't be seen after it's interpreted.)
 [Barrionuevo Ileana]: <https://github.com/ibarrionuevo>
 [Barrionuevo Matías]: <https://github.com/mbarrionuevo>
-[Bartoszensky Luciano]: <https://github.com/lafalda>
-[Gomez Pablo]: <>
+[Bartoszensky Luciano]: <https://github.com/lucianobartoszensky>
+[Gomez Pablo]: <https://github.com/pabloggomez>
 [Segurado Lucas]: <https://github.com/lucasmsegurado>
