@@ -1,4 +1,4 @@
-› Clase del 01/08/2017
+﻿› Clase del 01/08/2017
 <br/><br/>- Presentaci&#243;n de la Materia. Te&#243;rico de Introducci&#243;n a la Ing. de Software (Cargado por: 29542 Meles, Silvia Judith el 01/08/2017)
 › Clase del 03/08/2017
 <br/><br/>- Te&#243;rico de Administraci&#243;n de Configuraci&#243;n de Software, parte 1 (Cargado por: 29542 Meles, Silvia Judith el 03/08/2017)
@@ -8,3 +8,7 @@
 <br/><br/>- Te&#243;rico de Administraci&#243;n de Configuraci&#243;n de Software, segunda parte (Cargado por: 29542 Meles, Silvia Judith el 15/08/2017)
 › Clase del 15/08/2017
 <br/><br/>- Exposiciones orales con Pecha Kucha sobre temas de Ingenier&#237;a de Software. (Cargado por: 29542 Meles, Silvia Judith el 15/08/2017)
+› Clase del 17/08/2017
+<br/><br/>
+› Clase del 22/08/2017
+<br/><br/>- Trabajo Pr&#225;ctico Evaluable 2: Administraci&#243;n de Configuraci&#243;n de Software - Implementaci&#243;n de Repositorio de la C&#225;tedra (Cargado por: 84009 Robles, Joaquin Leonel el 23/08/2017)
