@@ -1,6 +1,9 @@
 # Ingeniería de Software - UTN - FRC - GRUPO 6
 Repositorio para la realización de ejercicios prácticos de la Cátedra de Ingeniería en Software.
 
+# Creación de líneas base
+Nuestro grupo decidió que se realizarán lineas base luego de cada parcial, por motivos de seguridad.
+
 ### Integrantes:
 * [Barrionuevo Ileana] - 67958
 * [Barrionuevo Matías] - 60437
