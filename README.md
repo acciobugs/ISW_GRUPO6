@@ -2,7 +2,8 @@
 Repositorio para la realización de ejercicios prácticos de la Cátedra de Ingeniería en Software.
 
 # Creación de líneas base
-Nuestro grupo decidió que se realizarán lineas base luego de cada parcial, por motivos de seguridad.
+Nuestro grupo decidió que se realizarán lineas base luego de cada parcial, para contar con un soporte al desarrollo de temas posteriores de la materia y como cierre de lo que se evaluó en cada parcial.
+
 
 ### Integrantes:
 * [Barrionuevo Ileana] - 67958
