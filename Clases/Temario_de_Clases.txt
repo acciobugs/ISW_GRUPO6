@@ -12,3 +12,23 @@
 <br/><br/>
 › Clase del 22/08/2017
 <br/><br/>- Trabajo Pr&#225;ctico Evaluable 2: Administraci&#243;n de Configuraci&#243;n de Software - Implementaci&#243;n de Repositorio de la C&#225;tedra (Cargado por: 84009 Robles, Joaquin Leonel el 23/08/2017)
+Clase del 24/08/2017
+<br/><br/>- Te&#243;rico de Testing de Software, segunda parte (Cargado por: 29542 Meles, Silvia Judith el 24/08/2017)
+› Clase del 29/08/2017
+<br/><br/>- Trabajo Pr&#225;ctico 3: Testing de Software (Caja Negra) (Cargado por: 84009 Robles, Joaquin Leonel el 06/09/2017)
+› Clase del 31/08/2017
+<br/><br/>- Te&#243;rico de Testing de Software ultima parte (Cargado por: 29542 Meles, Silvia Judith el 05/09/2017)
+› Clase del 05/09/2017
+<br/><br/>- Trabajo Pr&#225;ctico 4: Testing de Software (Caja Blanca) (Cargado por: 84009 Robles, Joaquin Leonel el 06/09/2017)
+› Clase del 07/09/2017
+<br/><br/>- Te&#243;rico de Revisiones T&#233;cnicas (Cargado por: 29542 Meles, Silvia Judith el 08/09/2017)
+› Clase del 12/09/2017
+<br/><br/>- Trabajo Pr&#225;ctico 5: Testing de Software (Ejecuci&#243;n de Casos de Prueba) (Cargado por: 84009 Robles, Joaquin Leonel el 15/09/2017)
+› Clase del 14/09/2017
+<br/><br/>- Te&#243;rico de Procesos Definidos vs. Emp&#237;ricos - Componentes de un Proyecto de Desarrollo de Software (Cargado por: 29542 Meles, Silvia Judith el 14/09/2017)
+› Clase del 19/09/2017
+<br/><br/>- Trabajo Pr&#225;ctico 7: Revisiones T&#233;cnicas - Inspecci&#243;n de C&#243;digo (Cargado por: 84009 Robles, Joaquin Leonel el 22/09/2017)
+› Clase del 21/09/2017
+- Feriado: Día del Estudiante <br/><br/>
+› Clase del 23/09/2017
+<br/><br/>- Primer Parcial Te&#243;rico Pr&#225;ctico (Cargado por: 29542 Meles, Silvia Judith el 22/09/2017)
