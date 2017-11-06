@@ -1,4 +1,4 @@
-﻿› Clase del 01/08/2017
+﻿Clase del 01/08/2017
 <br/><br/>- Presentaci&#243;n de la Materia. Te&#243;rico de Introducci&#243;n a la Ing. de Software (Cargado por: 29542 Meles, Silvia Judith el 01/08/2017)
 › Clase del 03/08/2017
 <br/><br/>- Te&#243;rico de Administraci&#243;n de Configuraci&#243;n de Software, parte 1 (Cargado por: 29542 Meles, Silvia Judith el 03/08/2017)
@@ -9,10 +9,10 @@
 › Clase del 15/08/2017
 <br/><br/>- Exposiciones orales con Pecha Kucha sobre temas de Ingenier&#237;a de Software. (Cargado por: 29542 Meles, Silvia Judith el 15/08/2017)
 › Clase del 17/08/2017
-<br/><br/>
+<br/><br/>- Te&#243;rico de Testing de Software, primera parte (Cargado por: 29542 Meles, Silvia Judith el 24/08/2017)
 › Clase del 22/08/2017
 <br/><br/>- Trabajo Pr&#225;ctico Evaluable 2: Administraci&#243;n de Configuraci&#243;n de Software - Implementaci&#243;n de Repositorio de la C&#225;tedra (Cargado por: 84009 Robles, Joaquin Leonel el 23/08/2017)
-Clase del 24/08/2017
+› Clase del 24/08/2017
 <br/><br/>- Te&#243;rico de Testing de Software, segunda parte (Cargado por: 29542 Meles, Silvia Judith el 24/08/2017)
 › Clase del 29/08/2017
 <br/><br/>- Trabajo Pr&#225;ctico 3: Testing de Software (Caja Negra) (Cargado por: 84009 Robles, Joaquin Leonel el 06/09/2017)
@@ -32,3 +32,27 @@ Clase del 24/08/2017
 - Feriado: Día del Estudiante <br/><br/>
 › Clase del 23/09/2017
 <br/><br/>- Primer Parcial Te&#243;rico Pr&#225;ctico (Cargado por: 29542 Meles, Silvia Judith el 22/09/2017)
+› Clase del 26/09/2017
+<br/><br/>- Trabajo Pr&#225;ctico 8: User Stories (Cargado por: 84009 Robles, Joaquin Leonel el 06/10/2017)
+› Clase del 28/09/2017
+<br/><br/>- Te&#243;rico Intro a Agile (Cargado por: 29542 Meles, Silvia Judith el 05/10/2017)
+› Clase del 03/10/2017
+<br/><br/>- Trabajo Pr&#225;ctico 9: User Stories y Estimaciones (Cargado por: 84009 Robles, Joaquin Leonel el 06/10/2017)
+› Clase del 05/10/2017
+<br/><br/>- Te&#243;rico de Intro a Srcum (Cargado por: 29542 Meles, Silvia Judith el 05/10/2017)
+› Clase del 10/10/2017
+<br/><br/>- Presentaciones de los alumnos con modalidad Pecha Kucha Entrega de parciales (Cargado por: 29542 Meles, Silvia Judith el 10/10/2017)
+› Clase del 12/10/2017
+<br/><br/>- Te&#243;rico de SCRUM (segunda parte) (Cargado por: 29542 Meles, Silvia Judith el 12/10/2017)
+› Clase del 17/10/2017
+<br/><br/>- Trabajo Pr&#225;ctico 10: SCRUM &#8211; Pr&#225;cticas de Estimaci&#243;n, Planificaci&#243;n y Seguimiento (Cargado por: 84009 Robles, Joaquin Leonel el 23/10/2017)
+› Clase del 19/10/2017
+<br/><br/>- M&#233;tricas &#225;giles y seguimiento en SCRUM - User Stories ejercicios de Empresa de Cable (Cargado por: 29542 Meles, Silvia Judith el 23/10/2017)
+› Clase del 24/10/2017
+<br/><br/>- Trabajo Pr&#225;ctico 11: SCRUM &#8211; MONITOREO Y M&#201;TRICAS &#193;GILES (Cargado por: 84009 Robles, Joaquin Leonel el 27/10/2017)
+› Clase del 26/10/2017
+<br/><br/>- Din&#225;micas sobre Scrum, trabajadas grupalmente (Cargado por: 29542 Meles, Silvia Judith el 26/10/2017)
+› Clase del 31/10/2017
+<br/><br/>- User Stories ejercicio de Hogares Inteligentes (Cargado por: 84009 Robles, Joaquin Leonel el 01/11/2017)
+› Clase del 02/11/2017
+<br/><br/>- Clase de consulta para parcial (Cargado por: 29542 Meles, Silvia Judith el 03/11/2017)
